@@ -16,22 +16,22 @@
 
 > To find out more about your learning preferences, please take the [Index of Learning Styles Questionnaire](https://www.webtools.ncsu.edu/learningstyles/) (takes about 10-15 minutes) and enter your results below. If you have completed this survey before and saved your summary, you are welcome to use your previous results.
 
-#### Active - Reflective
+##### Active - Reflective
 
 - Preference:
 - Score:
 
-#### Sensing - Intuitive
+##### Sensing - Intuitive
 
 - Preference:
 - Score:
 
-#### Visual - Verbal
+##### Visual - Verbal
 
 - Preference:
 - Score:
 
-#### Sequential - Global
+##### Sequential - Global
 
 - Preference:
 - Score:

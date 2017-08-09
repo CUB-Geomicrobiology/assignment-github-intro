@@ -18,7 +18,6 @@ Once you have completed the assignment, submit by creating a pull request with `
 
 This assignment will be graded based solely on completeness (i.e. if you fill out all questions and submit it in time you get full marks). See the syllabus for information on the late policy for this class.
 
-
 Criteria    | Weight | Complete | Incomplete
 ------------|--------|----------|-----------
 Question 1  | 20%    |          |
